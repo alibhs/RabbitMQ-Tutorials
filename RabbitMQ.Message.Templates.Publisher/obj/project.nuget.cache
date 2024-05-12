@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbLolSUPYL/IDrtvqAO+s7nBjoLc4aWNlInZ0teizgu50V19unDuWzE0pGjtTIoOBPY6DLmd6uBSIJolmWn5kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitelco1\\Desktop\\RabbitMQ-Learn\\RabbitMQ.Message.Templates.Publisher\\RabbitMQ.Message.Templates.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitelco1\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitelco1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
